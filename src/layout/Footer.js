@@ -164,7 +164,7 @@ const Footer = () => {
             <div className="col-lg-8">
               <ul className="bottom-footer-list">
                 <li>
-                  <p>© Copyright eTreeks {new Date().getFullYear()}</p>
+                  <p>© Copyright Larix Tech {new Date().getFullYear()}</p>
                 </li>
                 <li>
                   <p>
