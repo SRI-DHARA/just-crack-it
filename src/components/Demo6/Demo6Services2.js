@@ -14,7 +14,7 @@ const Demo6Services2 = () => {
                             {/* Icon */}
                             <img
                                 className="img-75"
-                                src="images/icons/trophy.png"
+                                src="images/icons/tutorial.png"
                                 alt="service-icon"
                             />
                             {/* Text */}
@@ -35,7 +35,7 @@ const Demo6Services2 = () => {
                             {/* Icon */}
                             <img
                                 className="img-75"
-                                src="images/icons/classroom.png"
+                                src="images/icons/information.png"
                                 alt="service-icon"
                             />
                             {/* Text */}
@@ -56,7 +56,7 @@ const Demo6Services2 = () => {
                             {/* Icon */}
                             <img
                                 className="img-75"
-                                src="images/icons/mouse-1.png"
+                                src="images/icons/abacus.png"
                                 alt="service-icon"
                             />
                             {/* Text */}
@@ -77,7 +77,7 @@ const Demo6Services2 = () => {
                             {/* Icon */}
                             <img
                                 className="img-75"
-                                src="images/icons/certificate.png"
+                                src="images/icons/crown.png"
                                 alt="service-icon"
                             />
                             {/* Text */}

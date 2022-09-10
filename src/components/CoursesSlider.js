@@ -12,7 +12,7 @@ const CoursesSlider = () => {
             {/* Image */}
             <img
               className="img-fluid"
-              src="images/courses/course-1-img.jpg"
+              src="images/courses/latest vacancies.jpg"
               alt="course-preview"
             />
             {/* Text */}
@@ -50,7 +50,7 @@ const CoursesSlider = () => {
             {/* Image */}
             <img
               className="img-fluid"
-              src="images/courses/course-2-img.jpg"
+              src="images/courses/Exam date anouncement.jpg"
               alt="course-preview"
             />
             {/* Text */}
@@ -90,7 +90,7 @@ const CoursesSlider = () => {
             {/* Image */}
             <img
               className="img-fluid"
-              src="images/courses/course-3-img.jpg"
+              src="images/courses/eligibility.png"
               alt="course-preview"
             />
             {/* Text */}
@@ -130,7 +130,7 @@ const CoursesSlider = () => {
             {/* Image */}
             <img
               className="img-fluid"
-              src="images/courses/course-4-img.jpg"
+              src="images/courses/expected cut off.jpg"
               alt="course-preview"
             />
             {/* Text */}
@@ -165,7 +165,7 @@ const CoursesSlider = () => {
             {/* Image */}
             <img
               className="img-fluid"
-              src="images/courses/course-5-img.jpg"
+              src="images/courses/exam pattern.jpg"
               alt="course-preview"
             />
             {/* Text */}
@@ -204,7 +204,7 @@ const CoursesSlider = () => {
             {/* Image */}
             <img
               className="img-fluid"
-              src="images/courses/course-6-img.jpg"
+              src="images/courses/exam related instructions.jpg"
               alt="course-preview"
             />
             {/* Text */}

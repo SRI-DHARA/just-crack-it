@@ -39,7 +39,7 @@ const Demo6Hboxes1 = () => {
                                         {/* Icon */}
                                         <img
                                             className="img-70"
-                                            src="images/icons/browser-3.png"
+                                            src="images/icons/mock-test.png"
                                             alt="category-icon"
                                         />
                                         {/* Text */}
@@ -58,7 +58,7 @@ const Demo6Hboxes1 = () => {
                                         {/* Icon */}
                                         <img
                                             className="img-70"
-                                            src="images/icons/piggy-bank.png"
+                                            src="images/icons/previous_year_practice_paper.png"
                                             alt="category-icon"
                                         />
                                         {/* Text */}
@@ -77,7 +77,7 @@ const Demo6Hboxes1 = () => {
                                         {/* Icon */}
                                         <img
                                             className="img-70"
-                                            src="images/icons/mouse-1.png"
+                                            src="images/icons/topic_wise_practice .png"
                                             alt="category-icon"
                                         />
                                         {/* Text */}
@@ -98,7 +98,7 @@ const Demo6Hboxes1 = () => {
                                         {/* Icon */}
                                         <img
                                             className="img-70"
-                                            src="images/icons/cash.png"
+                                            src="images/icons/study_material.png"
                                             alt="category-icon"
                                         />
                                         {/* Text */}
@@ -117,7 +117,7 @@ const Demo6Hboxes1 = () => {
                                         {/* Icon */}
                                         <img
                                             className="img-70"
-                                            src="images/icons/lab.png"
+                                            src="images/icons/all_about_dsssb.png"
                                             alt="category-icon"
                                         />
                                         {/* Text */}
@@ -136,7 +136,7 @@ const Demo6Hboxes1 = () => {
                                         {/* Icon */}
                                         <img
                                             className="img-70"
-                                            src="images/icons/encyclopedia.png"
+                                            src="images/icons/online_classes.png"
                                             alt="category-icon"
                                         />
                                         {/* Text */}
